@@ -19,7 +19,7 @@
 
 ## Conclusions
 - Lasso Regression with alpha value as 0.001 is the best model
-- The best predictors for this model are MiscVal, BsmtHalfBath, LowQualFinSF, BsmtFullBath, HalfBath
+- The best predictors for this model are GarageYrBlt Old, Neighborhood_Gilbert, BedroomAbvGr, ScreenPorch, Neighborhood_IDOTRR
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
